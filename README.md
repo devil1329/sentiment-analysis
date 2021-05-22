@@ -1,9 +1,9 @@
-# sentiment-analysis
+# Sentiment-Analysis
 GUI based sentiment analysis writtern in python.
 Use driver.py to run the program.
 Driver in the main program to run gui and call the setData function of senAna.py
 
-# libraries to be installed in system(used in this project)
+# Libraries To Be Installed In System(used in this project)
 pandas
 tweepy
 textblob
